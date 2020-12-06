@@ -1,0 +1,228 @@
+{
+    "data": {
+      "status": "valid",
+      "result": "deliverable",
+      "_deprecation_notice": "Using result is deprecated, use status instead",
+      "score": 100,
+      "email": "patrick@stripe.com",
+      "regexp": true,
+      "gibberish": false,
+      "disposable": false,
+      "webmail": false,
+      "mx_records": true,
+      "smtp_server": true,
+      "smtp_check": true,
+      "accept_all": false,
+      "block": false,
+      "sources": [
+        {
+          "domain": "hunter.io",
+          "uri": "http://hunter.io/api/v2/docs",
+          "extracted_on": "2020-11-14",
+          "last_seen_on": "2020-11-14",
+          "still_on_page": true
+        },
+        {
+          "domain": "hunter.io",
+          "uri": "http://hunter.io/api-documentation/v2",
+          "extracted_on": "2020-10-09",
+          "last_seen_on": "2020-11-23",
+          "still_on_page": true
+        },
+        {
+          "domain": "hunter.io",
+          "uri": "http://hunter.io/api/email-verifier",
+          "extracted_on": "2020-10-09",
+          "last_seen_on": "2020-11-15",
+          "still_on_page": true
+        },
+        {
+          "domain": "hunter.io",
+          "uri": "http://hunter.io/api",
+          "extracted_on": "2020-10-07",
+          "last_seen_on": "2020-11-14",
+          "still_on_page": true
+        },
+        {
+          "domain": "beta.paganresearch.io",
+          "uri": "http://beta.paganresearch.io/details/stripe",
+          "extracted_on": "2020-06-17",
+          "last_seen_on": "2020-09-18",
+          "still_on_page": true
+        },
+        {
+          "domain": "icloudnewz.blogspot.com",
+          "uri": "http://icloudnewz.blogspot.com/2017/11/follow-patrick-collison-mike-birbiglia.html",
+          "extracted_on": "2020-03-25",
+          "last_seen_on": "2020-09-29",
+          "still_on_page": true
+        },
+        {
+          "domain": "icloudnewz.blogspot.com",
+          "uri": "http://icloudnewz.blogspot.com/2018/03/follow-nathan-hubbard-josh-elman-and.html",
+          "extracted_on": "2020-03-25",
+          "last_seen_on": "2020-09-25",
+          "still_on_page": true
+        },
+        {
+          "domain": "bioreports.net",
+          "uri": "http://bioreports.net/patrick-collisons-bookshelf",
+          "extracted_on": "2019-12-28",
+          "last_seen_on": "2020-11-22",
+          "still_on_page": true
+        },
+        {
+          "domain": "icloudnewz.blogspot.com",
+          "uri": "http://icloudnewz.blogspot.com/2017/12/follow-nathan-hubbard-josh-elman-and.html",
+          "extracted_on": "2019-11-30",
+          "last_seen_on": "2020-09-28",
+          "still_on_page": true
+        },
+        {
+          "domain": "icloudnewz.blogspot.com",
+          "uri": "http://icloudnewz.blogspot.com/2018/01/follow-nathan-hubbard-josh-elman-and.html",
+          "extracted_on": "2019-11-30",
+          "last_seen_on": "2020-09-29",
+          "still_on_page": true
+        },
+        {
+          "domain": "icloudnewz.blogspot.com",
+          "uri": "http://icloudnewz.blogspot.com/2018/02/follow-patrick-collison-mike-birbiglia.html",
+          "extracted_on": "2019-11-30",
+          "last_seen_on": "2020-09-29",
+          "still_on_page": true
+        },
+        {
+          "domain": "peerreach.com",
+          "uri": "http://peerreach.com/patrickc",
+          "extracted_on": "2019-11-07",
+          "last_seen_on": "2020-10-14",
+          "still_on_page": true
+        },
+        {
+          "domain": "apify.com",
+          "uri": "http://apify.com/vdrmota/twitter-scraper",
+          "extracted_on": "2019-08-28",
+          "last_seen_on": "2020-10-13",
+          "still_on_page": true
+        },
+        {
+          "domain": "floozie.rssing.com",
+          "uri": "http://floozie.rssing.com/chan-1781763/all_p1554.html",
+          "extracted_on": "2019-07-26",
+          "last_seen_on": "2020-11-02",
+          "still_on_page": true
+        },
+        {
+          "domain": "paganresearch.io",
+          "uri": "http://paganresearch.io/details/stripe",
+          "extracted_on": "2019-05-08",
+          "last_seen_on": "2020-11-15",
+          "still_on_page": true
+        },
+        {
+          "domain": "microconf.gen.co",
+          "uri": "http://microconf.gen.co/patrick-collison",
+          "extracted_on": "2019-01-07",
+          "last_seen_on": "2020-10-04",
+          "still_on_page": true
+        },
+        {
+          "domain": "github.com",
+          "uri": "http://github.com/stripe/stripe-python/blob/master/stripe/__init__.py",
+          "extracted_on": "2017-09-30",
+          "last_seen_on": "2020-10-28",
+          "still_on_page": true
+        },
+        {
+          "domain": "medium.com",
+          "uri": "http://medium.com/cs183c-blitzscaling-class-collection/cs183c-session-11-patrick-collison-stripe-84057f358ecb",
+          "extracted_on": "2017-09-05",
+          "last_seen_on": "2020-05-19",
+          "still_on_page": true
+        },
+        {
+          "domain": "fetch.amplemarket.com",
+          "uri": "http://fetch.amplemarket.com/midas",
+          "extracted_on": "2017-08-30",
+          "last_seen_on": "2020-10-25",
+          "still_on_page": true
+        },
+        {
+          "domain": "patrickcollison.com",
+          "uri": "http://patrickcollison.com/bookshelf",
+          "extracted_on": "2016-02-11",
+          "last_seen_on": "2020-10-18",
+          "still_on_page": true
+        },
+        {
+          "domain": "patrickcollison.com",
+          "uri": "http://patrickcollison.com/svhistory",
+          "extracted_on": "2015-10-13",
+          "last_seen_on": "2020-10-17",
+          "still_on_page": true
+        },
+        {
+          "domain": "indiehackers.com",
+          "uri": "http://indiehackers.com/forum/stripe-forum-e701f4b334",
+          "extracted_on": "2018-12-25",
+          "last_seen_on": "2018-12-25",
+          "still_on_page": false
+        },
+        {
+          "domain": "patrickcollison.com",
+          "uri": "http://patrickcollison.com/culture",
+          "extracted_on": "2018-09-13",
+          "last_seen_on": "2018-11-09",
+          "still_on_page": false
+        },
+        {
+          "domain": "itsgoingdown.org",
+          "uri": "http://itsgoingdown.org/defund-fascism-help-pull-the-plug-on-the-alt-right",
+          "extracted_on": "2018-08-29",
+          "last_seen_on": "2019-10-09",
+          "still_on_page": false
+        },
+        {
+          "domain": "10monstor.com",
+          "uri": "http://10monstor.com/an-open-letter-to-stripe-its-founders",
+          "extracted_on": "2018-08-13",
+          "last_seen_on": "2018-08-13",
+          "still_on_page": false
+        },
+        {
+          "domain": "venturenews.co",
+          "uri": "http://venturenews.co",
+          "extracted_on": "2017-08-10",
+          "last_seen_on": "2017-08-10",
+          "still_on_page": false
+        },
+        {
+          "domain": "github.com",
+          "uri": "http://github.com/stripe/stripe-python/commit/40814b421daf66ca45ff44af3cde00ede4e2ee13",
+          "extracted_on": "2016-11-01",
+          "last_seen_on": "2018-02-25",
+          "still_on_page": false
+        },
+        {
+          "domain": "socialreport.com",
+          "uri": "http://socialreport.com/twitter-social-report/jmuller",
+          "extracted_on": "2016-01-07",
+          "last_seen_on": "2018-01-15",
+          "still_on_page": false
+        },
+        {
+          "domain": "socialreport.com",
+          "uri": "http://socialreport.com/twitter-social-report/jmuller/san-jose-ca",
+          "extracted_on": "2016-01-07",
+          "last_seen_on": "2018-01-31",
+          "still_on_page": false
+        }
+      ]
+    },
+    "meta": {
+      "params": {
+        "email": "patrick@stripe.com"
+      }
+    }
+  }

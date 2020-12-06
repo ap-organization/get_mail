@@ -1,0 +1,1392 @@
+{
+    "data": {
+      "domain": "stripe.com",
+      "disposable": false,
+      "webmail": false,
+      "accept_all": false,
+      "pattern": "{first}",
+      "organization": "Stripe",
+      "country": "US",
+      "state": "CA",
+      "emails": [
+        {
+          "value": "ludwig@stripe.com",
+          "type": "personal",
+          "confidence": 99,
+          "sources": [
+            {
+              "domain": "dribbble.com",
+              "uri": "http://dribbble.com/shots/1197960-stripe-in-the-uk",
+              "extracted_on": "2017-07-21",
+              "last_seen_on": "2020-09-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "dribbble.com",
+              "uri": "http://dribbble.com/shots/581096-einhorn",
+              "extracted_on": "2016-12-12",
+              "last_seen_on": "2020-08-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "dribbble.com",
+              "uri": "http://dribbble.com/shots/736405-Stripe-Teams",
+              "extracted_on": "2015-05-06",
+              "last_seen_on": "2020-11-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "dribbble.com",
+              "uri": "http://dribbble.com/shots/736405-stripe-teams",
+              "extracted_on": "2014-04-21",
+              "last_seen_on": "2020-11-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "dribbble.com",
+              "uri": "http://dribbble.com/shots/736410-stripe-in-canada",
+              "extracted_on": "2014-04-18",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            }
+          ],
+          "first_name": "Ludwig",
+          "last_name": "Pettersson",
+          "position": null,
+          "seniority": "senior",
+          "department": "management",
+          "linkedin": null,
+          "twitter": "ludwig",
+          "phone_number": null,
+          "verification": {
+            "date": "2020-09-08",
+            "status": "valid"
+          }
+        },
+        {
+          "value": "hamish.kerr@stripe.com",
+          "type": "personal",
+          "confidence": 98,
+          "sources": [
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/connect-dashboard-updates-june-2018",
+              "extracted_on": "2020-06-17",
+              "last_seen_on": "2020-11-26",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-ch/blog/connect-dashboard-updates-june-2018",
+              "extracted_on": "2020-04-15",
+              "last_seen_on": "2020-10-21",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-ee/blog/connect-dashboard-updates-june-2018",
+              "extracted_on": "2020-04-15",
+              "last_seen_on": "2020-10-16",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/it-au/blog/connect-dashboard-updates-june-2018",
+              "extracted_on": "2020-04-15",
+              "last_seen_on": "2020-10-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/page/6",
+              "extracted_on": "2020-05-15",
+              "last_seen_on": "2020-05-15",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/3",
+              "extracted_on": "2019-05-03",
+              "last_seen_on": "2019-05-25",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/2",
+              "extracted_on": "2019-01-23",
+              "last_seen_on": "2019-05-02",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog",
+              "extracted_on": "2018-07-31",
+              "last_seen_on": "2018-09-17",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/1",
+              "extracted_on": "2018-06-21",
+              "last_seen_on": "2018-09-21",
+              "still_on_page": false
+            }
+          ],
+          "first_name": "Hamish",
+          "last_name": "Kerr",
+          "position": "Resource Management",
+          "seniority": null,
+          "department": null,
+          "linkedin": null,
+          "twitter": "hamish_kerr",
+          "phone_number": null,
+          "verification": {
+            "date": "2020-09-08",
+            "status": "valid"
+          }
+        },
+        {
+          "value": "atlas@stripe.com",
+          "type": "generic",
+          "confidence": 97,
+          "sources": [
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/it/atlas/guides/starting-sales",
+              "extracted_on": "2020-10-24",
+              "last_seen_on": "2020-10-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/de-mt/atlas/guides/saas-pricing",
+              "extracted_on": "2020-10-17",
+              "last_seen_on": "2020-10-17",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/atlas-founder-stock-issuance",
+              "extracted_on": "2020-08-24",
+              "last_seen_on": "2020-10-20",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/atlas-taxes",
+              "extracted_on": "2020-06-16",
+              "last_seen_on": "2020-11-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/atlas-update",
+              "extracted_on": "2020-06-16",
+              "last_seen_on": "2020-11-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "support.azlo.com",
+              "uri": "http://support.azlo.com/hc/en-us/articles/360001145247-azlo-and-stripe-atlas",
+              "extracted_on": "2020-04-21",
+              "last_seen_on": "2020-10-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "startuplaunch.postach.io",
+              "uri": "http://startuplaunch.postach.io/link/stripe-atlas-software-as-a-service-as-a-business",
+              "extracted_on": "2019-10-09",
+              "last_seen_on": "2020-09-26",
+              "still_on_page": true
+            },
+            {
+              "domain": "adriadaily.com",
+              "uri": "http://adriadaily.com/drustvo/ittehnologija/stripe-atlas-put-do-firme-u-americi-i-silikonske-doline-za-7-dana",
+              "extracted_on": "2019-05-24",
+              "last_seen_on": "2020-11-07",
+              "still_on_page": true
+            },
+            {
+              "domain": "support.azlo.com",
+              "uri": "http://support.azlo.com/hc/en-us/articles/360001145247-azlo-with-stripe-atlas",
+              "extracted_on": "2018-12-20",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "paralimani.com",
+              "uri": "http://paralimani.com/pay-pal-turkiye-den-cekilince-rakibi-firsati-kacirmadi-haberi-58808",
+              "extracted_on": "2016-06-07",
+              "last_seen_on": "2020-11-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "creative-brackets.com",
+              "uri": "http://creative-brackets.com/news/stripe-atlas-create-a-company-in-u-s-and-a-bank-account-in-silicon-valley-in-7-days",
+              "extracted_on": "2019-09-27",
+              "last_seen_on": "2020-04-15",
+              "still_on_page": false
+            },
+            {
+              "domain": "creative-brackets.rs",
+              "uri": "http://creative-brackets.rs/vesti/stripe-atlas-i-otvaranje-firme-u-americi",
+              "extracted_on": "2019-09-08",
+              "last_seen_on": "2020-04-05",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/5",
+              "extracted_on": "2019-05-15",
+              "last_seen_on": "2019-05-25",
+              "still_on_page": false
+            },
+            {
+              "domain": "ourbestinvestments.org",
+              "uri": "http://ourbestinvestments.org/start-a-business",
+              "extracted_on": "2019-04-23",
+              "last_seen_on": "2019-10-14",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/7",
+              "extracted_on": "2019-01-25",
+              "last_seen_on": "2019-04-25",
+              "still_on_page": false
+            },
+            {
+              "domain": "stripe.stack.network",
+              "uri": "http://stripe.stack.network",
+              "extracted_on": "2018-09-29",
+              "last_seen_on": "2019-01-13",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/6",
+              "extracted_on": "2018-09-12",
+              "last_seen_on": "2018-09-19",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/4",
+              "extracted_on": "2017-05-30",
+              "last_seen_on": "2019-05-23",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/3",
+              "extracted_on": "2017-02-28",
+              "last_seen_on": "2019-04-23",
+              "still_on_page": false
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": null,
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "privacy@stripe.com",
+          "type": "generic",
+          "confidence": 97,
+          "sources": [
+            {
+              "domain": "climatecaseireland.ie",
+              "uri": "http://climatecaseireland.ie/privacy-policy",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "clixzz.de",
+              "uri": "http://clixzz.de/datenschutzerklaerung-2",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "sprint.film",
+              "uri": "http://sprint.film/service",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "smallprint.tito.io",
+              "uri": "http://smallprint.tito.io/crisprcon/crisprcon-2019",
+              "extracted_on": "2020-12-04",
+              "last_seen_on": "2020-12-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "sprint.film",
+              "uri": "http://sprint.film/ibm-gbs-portraits",
+              "extracted_on": "2020-12-04",
+              "last_seen_on": "2020-12-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "getsheep.co.uk",
+              "uri": "http://getsheep.co.uk/subcontractors",
+              "extracted_on": "2020-11-29",
+              "last_seen_on": "2020-11-29",
+              "still_on_page": true
+            },
+            {
+              "domain": "sprint.film",
+              "uri": "http://sprint.film",
+              "extracted_on": "2020-11-28",
+              "last_seen_on": "2020-11-28",
+              "still_on_page": true
+            },
+            {
+              "domain": "surveylegend.com",
+              "uri": "http://surveylegend.com/gdpr-compliance/why-and-how-do-we-collect-data",
+              "extracted_on": "2020-11-24",
+              "last_seen_on": "2020-11-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "krisenfrei.de",
+              "uri": "http://krisenfrei.de/datenschutz",
+              "extracted_on": "2020-11-23",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "surveylegend.com",
+              "uri": "http://surveylegend.com/terms-and-privacy/our-sub-processors-of-data",
+              "extracted_on": "2020-11-23",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "waldhammer.com",
+              "uri": "http://waldhammer.com/datenschutzerklaerung",
+              "extracted_on": "2020-11-23",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "clevertronic.de",
+              "uri": "http://clevertronic.de/blog/tag/akkulaufzeit",
+              "extracted_on": "2020-11-20",
+              "last_seen_on": "2020-11-20",
+              "still_on_page": true
+            },
+            {
+              "domain": "clevertronic.de",
+              "uri": "http://clevertronic.de/blog/tag/blog",
+              "extracted_on": "2020-11-19",
+              "last_seen_on": "2020-11-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "clevertronic.de",
+              "uri": "http://clevertronic.de/blog/tag/ios",
+              "extracted_on": "2020-11-19",
+              "last_seen_on": "2020-11-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "clevertronic.de",
+              "uri": "http://clevertronic.de/blog/tag/schnelle-auszahlung",
+              "extracted_on": "2020-11-19",
+              "last_seen_on": "2020-11-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "lizza.net",
+              "uri": "http://lizza.net/policies/privacy-policy",
+              "extracted_on": "2020-11-19",
+              "last_seen_on": "2020-11-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "vinted.com",
+              "uri": "http://vinted.com/privacy-policy",
+              "extracted_on": "2020-11-16",
+              "last_seen_on": "2020-11-16",
+              "still_on_page": true
+            },
+            {
+              "domain": "berlin-arts.com",
+              "uri": "http://berlin-arts.com/datenschutzerklaerung",
+              "extracted_on": "2020-11-14",
+              "last_seen_on": "2020-11-14",
+              "still_on_page": true
+            },
+            {
+              "domain": "bestplayercollection.com",
+              "uri": "http://bestplayercollection.com/pages/datenschutz",
+              "extracted_on": "2020-11-09",
+              "last_seen_on": "2020-11-09",
+              "still_on_page": true
+            },
+            {
+              "domain": "awesomestoffel.de",
+              "uri": "http://awesomestoffel.de/pages/datenschutzerklarung",
+              "extracted_on": "2020-11-08",
+              "last_seen_on": "2020-11-08",
+              "still_on_page": true
+            },
+            {
+              "domain": "m1-select.de",
+              "uri": "http://m1-select.de/datenschutzbelehrung",
+              "extracted_on": "2020-11-08",
+              "last_seen_on": "2020-11-08",
+              "still_on_page": true
+            },
+            {
+              "domain": "servitashop.se",
+              "uri": "http://servitashop.se/privacy-policy",
+              "extracted_on": "2020-11-07",
+              "last_seen_on": "2020-11-07",
+              "still_on_page": true
+            },
+            {
+              "domain": "foodyme.de",
+              "uri": "http://foodyme.de/datenschutzerklaerung-und-einwilligung-zur-datenverarbeitung",
+              "extracted_on": "2020-11-03",
+              "last_seen_on": "2020-11-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "politaia.org",
+              "uri": "http://politaia.org/datenschutz",
+              "extracted_on": "2020-11-03",
+              "last_seen_on": "2020-11-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "register.thegpservice.co.uk",
+              "uri": "http://register.thegpservice.co.uk/terms-conditions",
+              "extracted_on": "2020-11-03",
+              "last_seen_on": "2020-11-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "forestadmin.com",
+              "uri": "http://forestadmin.com/subcontractors",
+              "extracted_on": "2020-11-01",
+              "last_seen_on": "2020-11-10",
+              "still_on_page": true
+            },
+            {
+              "domain": "clevertronic.de",
+              "uri": "http://clevertronic.de/blog/so-entfernen-sie-geraetesperren",
+              "extracted_on": "2020-10-31",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "leorido.de",
+              "uri": "http://leorido.de/policies/privacy-policy",
+              "extracted_on": "2020-10-31",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "shop.tinaberning.com",
+              "uri": "http://shop.tinaberning.com/pages/disclaimer",
+              "extracted_on": "2020-10-30",
+              "last_seen_on": "2020-10-30",
+              "still_on_page": true
+            },
+            {
+              "domain": "stagehandsclothing.com",
+              "uri": "http://stagehandsclothing.com/about/company-statement",
+              "extracted_on": "2020-10-30",
+              "last_seen_on": "2020-10-30",
+              "still_on_page": true
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": "legal",
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "support@stripe.com",
+          "type": "generic",
+          "confidence": 97,
+          "sources": [
+            {
+              "domain": "fancy.com",
+              "uri": "http://fancy.com/about/google_glass",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "help.wagwalking.com",
+              "uri": "http://help.wagwalking.com/category/walker-my-account",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "keeex.me",
+              "uri": "http://keeex.me/third-party-code",
+              "extracted_on": "2020-12-01",
+              "last_seen_on": "2020-12-01",
+              "still_on_page": true
+            },
+            {
+              "domain": "bhf.io",
+              "uri": "http://bhf.io/threads/520404",
+              "extracted_on": "2020-11-30",
+              "last_seen_on": "2020-11-30",
+              "still_on_page": true
+            },
+            {
+              "domain": "skydivetonsberg.no",
+              "uri": "http://skydivetonsberg.no/tandem",
+              "extracted_on": "2020-11-30",
+              "last_seen_on": "2020-11-30",
+              "still_on_page": true
+            },
+            {
+              "domain": "support.fundly.com",
+              "uri": "http://support.fundly.com/hc/en-us/articles/235454307-faq-version-1-to-version-2-0-what-does-and-does-not-migrate",
+              "extracted_on": "2020-11-27",
+              "last_seen_on": "2020-11-27",
+              "still_on_page": true
+            },
+            {
+              "domain": "support.sounder.fm",
+              "uri": "http://support.sounder.fm/article/76-monetization-faq",
+              "extracted_on": "2020-11-26",
+              "last_seen_on": "2020-11-26",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/en-jp/support-and-services",
+              "extracted_on": "2020-11-25",
+              "last_seen_on": "2020-11-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "sportlabs.zendesk.com",
+              "uri": "http://sportlabs.zendesk.com/hc/en-us/articles/115000075526-book-a-coaching-course-for-a-child",
+              "extracted_on": "2020-11-24",
+              "last_seen_on": "2020-11-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "hemantandnandita.com",
+              "uri": "http://hemantandnandita.com/collections/shop/products/suho-shirt",
+              "extracted_on": "2020-11-23",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "fancy.com",
+              "uri": "http://fancy.com/about/add-to-fancy",
+              "extracted_on": "2020-11-22",
+              "last_seen_on": "2020-12-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "hemantandnandita.com",
+              "uri": "http://hemantandnandita.com/collections/shop/products/liv-dress-long",
+              "extracted_on": "2020-11-22",
+              "last_seen_on": "2020-11-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "shopify98.rssing.com",
+              "uri": "http://shopify98.rssing.com/chan-13772957/all_p95.html",
+              "extracted_on": "2020-11-20",
+              "last_seen_on": "2020-11-20",
+              "still_on_page": true
+            },
+            {
+              "domain": "asisters.co.uk",
+              "uri": "http://asisters.co.uk/t_and_c",
+              "extracted_on": "2020-11-15",
+              "last_seen_on": "2020-11-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "pongcheese.co.uk",
+              "uri": "http://pongcheese.co.uk/terms-and-conditions",
+              "extracted_on": "2020-11-15",
+              "last_seen_on": "2020-11-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "broder-bry.xyz",
+              "uri": "http://broder-bry.xyz/190362392/1223/stripe-kortbetalning.html",
+              "extracted_on": "2020-11-14",
+              "last_seen_on": "2020-11-14",
+              "still_on_page": true
+            },
+            {
+              "domain": "paganresearch.io",
+              "uri": "http://paganresearch.io/details/stripe",
+              "extracted_on": "2020-11-12",
+              "last_seen_on": "2020-11-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "amberonrails.com",
+              "uri": "http://amberonrails.com",
+              "extracted_on": "2020-11-11",
+              "last_seen_on": "2020-11-11",
+              "still_on_page": true
+            },
+            {
+              "domain": "fancy.com",
+              "uri": "http://fancy.com/about/business-start",
+              "extracted_on": "2020-11-10",
+              "last_seen_on": "2020-11-12",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/de-ie/corporate-card",
+              "extracted_on": "2020-11-06",
+              "last_seen_on": "2020-11-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "fancy.com",
+              "uri": "http://fancy.com/about/deals/paola-mirai",
+              "extracted_on": "2020-11-04",
+              "last_seen_on": "2020-11-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-419-hk/marketplaces",
+              "extracted_on": "2020-11-04",
+              "last_seen_on": "2020-11-04",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/fr-ie/support-and-services",
+              "extracted_on": "2020-11-03",
+              "last_seen_on": "2020-11-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "skydivetonsberg.no",
+              "uri": "http://skydivetonsberg.no/tandem-english",
+              "extracted_on": "2020-11-02",
+              "last_seen_on": "2020-11-02",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/ja-gb/legal",
+              "extracted_on": "2020-11-01",
+              "last_seen_on": "2020-11-01",
+              "still_on_page": true
+            },
+            {
+              "domain": "hemantandnandita.com",
+              "uri": "http://hemantandnandita.com/collections/accessories/products/hana-headband",
+              "extracted_on": "2020-10-31",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "hemantandnandita.com",
+              "uri": "http://hemantandnandita.com/products/liv-headband",
+              "extracted_on": "2020-10-31",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "hemantandnandita.com",
+              "uri": "http://hemantandnandita.com/collections/spring-1/products/cosmic-maxi-dress",
+              "extracted_on": "2020-10-29",
+              "last_seen_on": "2020-10-29",
+              "still_on_page": true
+            },
+            {
+              "domain": "help.one.com",
+              "uri": "http://help.one.com/hc/no/articles/115005585049",
+              "extracted_on": "2020-10-28",
+              "last_seen_on": "2020-10-28",
+              "still_on_page": true
+            },
+            {
+              "domain": "en.ryte.com",
+              "uri": "http://en.ryte.com/about/tos",
+              "extracted_on": "2020-09-27",
+              "last_seen_on": "2020-11-16",
+              "still_on_page": true
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": "support",
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "media@stripe.com",
+          "type": "generic",
+          "confidence": 96,
+          "sources": [
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/newsroom",
+              "extracted_on": "2020-08-18",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "118500.fr",
+              "uri": "http://118500.fr/telephone-service-client-stripe",
+              "extracted_on": "2020-06-30",
+              "last_seen_on": "2020-10-01",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/en-dk/newsroom",
+              "extracted_on": "2020-06-25",
+              "last_seen_on": "2020-09-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/en-pl/newsroom",
+              "extracted_on": "2020-06-24",
+              "last_seen_on": "2020-09-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-dk/newsroom",
+              "extracted_on": "2020-06-20",
+              "last_seen_on": "2020-09-20",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/it-si/newsroom",
+              "extracted_on": "2020-06-17",
+              "last_seen_on": "2020-09-17",
+              "still_on_page": true
+            },
+            {
+              "domain": "itespresso.fr",
+              "uri": "http://itespresso.fr/press-release/visa-et-stripe-sassocient-pour-tendre-le-commerce-en-ligne-lchelle-mondiale",
+              "extracted_on": "2019-12-29",
+              "last_seen_on": "2020-09-29",
+              "still_on_page": true
+            },
+            {
+              "domain": "businesswire.com",
+              "uri": "http://businesswire.com/news/home/20150729005861/ja",
+              "extracted_on": "2019-11-25",
+              "last_seen_on": "2019-11-25",
+              "still_on_page": true
+            },
+            {
+              "domain": "maxit.my",
+              "uri": "http://maxit.my/2019/10/stripe-launches-in-malaysia",
+              "extracted_on": "2019-11-10",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "businesswire.com",
+              "uri": "http://businesswire.com/news/home/20150728005499/en",
+              "extracted_on": "2019-11-02",
+              "last_seen_on": "2019-11-02",
+              "still_on_page": true
+            },
+            {
+              "domain": "africamediaonline.blogspot.com",
+              "uri": "http://africamediaonline.blogspot.com/2015/07",
+              "extracted_on": "2019-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "si24.news",
+              "uri": "http://si24.news/2019/09/09/platforma-stripe-se-ustanavlja-v-sloveniji",
+              "extracted_on": "2019-10-05",
+              "last_seen_on": "2020-11-10",
+              "still_on_page": true
+            },
+            {
+              "domain": "businesswire.com",
+              "uri": "http://businesswire.com/news/home/20190618005337/en/global-software-leaders-xero-stripe-join-forces",
+              "extracted_on": "2019-10-02",
+              "last_seen_on": "2019-11-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "africa-live.at.ua",
+              "uri": "http://africa-live.at.ua/news/visa_and_stripe_partner_to_expand_online_commerce_globally/2015-07-30-5246",
+              "extracted_on": "2019-08-13",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "khaleejdailies.blogspot.com",
+              "uri": "http://khaleejdailies.blogspot.com/2015/07",
+              "extracted_on": "2019-07-18",
+              "last_seen_on": "2020-10-20",
+              "still_on_page": true
+            },
+            {
+              "domain": "businesswire.com",
+              "uri": "http://businesswire.com/news/home/20160318005640/en/stripe-cuban-nationals-set-u.s.-business-entity",
+              "extracted_on": "2019-06-04",
+              "last_seen_on": "2019-10-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "laraza.com",
+              "uri": "http://laraza.com/latinowire/visa-y-stripe-se-asocian-para-expandir-el-comercio-en-linea-en-todo-el-mundo",
+              "extracted_on": "2019-05-09",
+              "last_seen_on": "2020-09-03",
+              "still_on_page": true
+            },
+            {
+              "domain": "n.yam.com",
+              "uri": "http://n.yam.com/article/20150729181759",
+              "extracted_on": "2019-01-15",
+              "last_seen_on": "2020-10-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "menewswire.blogspot.com",
+              "uri": "http://menewswire.blogspot.com/2015/07/blog-post_131.html",
+              "extracted_on": "2018-04-21",
+              "last_seen_on": "2020-11-16",
+              "still_on_page": true
+            },
+            {
+              "domain": "mideasteconomist.blog.fc2.com",
+              "uri": "http://mideasteconomist.blog.fc2.com/blog-entry-8939.html",
+              "extracted_on": "2018-04-18",
+              "last_seen_on": "2020-10-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "mideasteconomist.blog.fc2.com",
+              "uri": "http://mideasteconomist.blog.fc2.com/blog-entry-8944.html",
+              "extracted_on": "2018-04-18",
+              "last_seen_on": "2020-10-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "menewswire.blogspot.com",
+              "uri": "http://menewswire.blogspot.com/2015/07",
+              "extracted_on": "2017-09-07",
+              "last_seen_on": "2020-08-29",
+              "still_on_page": true
+            },
+            {
+              "domain": "dubainewstoday.blogspot.com",
+              "uri": "http://dubainewstoday.blogspot.com/2015/07",
+              "extracted_on": "2017-09-04",
+              "last_seen_on": "2020-11-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "dubainewstoday.blogspot.com",
+              "uri": "http://dubainewstoday.blogspot.com/2015_07_01_archive.html",
+              "extracted_on": "2017-08-26",
+              "last_seen_on": "2020-11-14",
+              "still_on_page": true
+            },
+            {
+              "domain": "compartir-tecnologias.es",
+              "uri": "http://compartir-tecnologias.es/visa-y-stripe-se-asocian-para-expandir-el-comercio-linea-todo-prensa-2209286.html",
+              "extracted_on": "2017-05-09",
+              "last_seen_on": "2020-08-30",
+              "still_on_page": true
+            },
+            {
+              "domain": "investor.visa.com",
+              "uri": "http://investor.visa.com/news/news-details/2015/visa-and-stripe-partner-to-expand-online-commerce-globally/default.aspx",
+              "extracted_on": "2016-05-16",
+              "last_seen_on": "2020-10-05",
+              "still_on_page": true
+            },
+            {
+              "domain": "jumpstartmag.com",
+              "uri": "http://jumpstartmag.com/stripe-launches-in-malaysia",
+              "extracted_on": "2019-11-16",
+              "last_seen_on": "2020-05-18",
+              "still_on_page": false
+            },
+            {
+              "domain": "techritual.com",
+              "uri": "http://techritual.com/2019/10/08/196442",
+              "extracted_on": "2019-11-09",
+              "last_seen_on": "2019-11-09",
+              "still_on_page": false
+            },
+            {
+              "domain": "myepb.net",
+              "uri": "http://myepb.net/news/read/category/business/article/the_associated_press-global_software_leaders_xero_and_stripe_join_force-ap",
+              "extracted_on": "2019-06-20",
+              "last_seen_on": "2020-07-24",
+              "still_on_page": false
+            },
+            {
+              "domain": "jumpstartmag.com",
+              "uri": "http://jumpstartmag.com/new-research-shows-multi-sided-marketplaces-taking-off-in-hong-kong",
+              "extracted_on": "2018-08-03",
+              "last_seen_on": "2020-05-01",
+              "still_on_page": false
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": "communication",
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "info@stripe.com",
+          "type": "generic",
+          "confidence": 96,
+          "sources": [
+            {
+              "domain": "mermaidme.fr",
+              "uri": "http://mermaidme.fr/politique-de-confidentialite",
+              "extracted_on": "2020-12-06",
+              "last_seen_on": "2020-12-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "flashmop.com.au",
+              "uri": "http://flashmop.com.au/privacy-policy",
+              "extracted_on": "2020-11-27",
+              "last_seen_on": "2020-11-27",
+              "still_on_page": true
+            },
+            {
+              "domain": "offgridme.life",
+              "uri": "http://offgridme.life/terms-and-conditions",
+              "extracted_on": "2020-11-27",
+              "last_seen_on": "2020-11-27",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/zh-cn-gr/connect/express/request-demo",
+              "extracted_on": "2020-11-19",
+              "last_seen_on": "2020-11-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "sexworklawreformvictoria.org.au",
+              "uri": "http://sexworklawreformvictoria.org.au/financial-institutions-which-ones-discriminate",
+              "extracted_on": "2020-11-14",
+              "last_seen_on": "2020-11-15",
+              "still_on_page": true
+            },
+            {
+              "domain": "ekm.freshdesk.com",
+              "uri": "http://ekm.freshdesk.com/support/solutions/articles/44001819950-contact-numbers",
+              "extracted_on": "2020-11-13",
+              "last_seen_on": "2020-11-13",
+              "still_on_page": true
+            },
+            {
+              "domain": "mobile.sandradanse.com",
+              "uri": "http://mobile.sandradanse.com/en/terms-and-conditions",
+              "extracted_on": "2020-11-11",
+              "last_seen_on": "2020-11-11",
+              "still_on_page": true
+            },
+            {
+              "domain": "ava-may.pl",
+              "uri": "http://ava-may.pl/pages/polityka-prywatnosci",
+              "extracted_on": "2020-11-06",
+              "last_seen_on": "2020-11-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "bruleur2graisse.com",
+              "uri": "http://bruleur2graisse.com/cgv-mention.php",
+              "extracted_on": "2020-11-06",
+              "last_seen_on": "2020-11-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "persberichten.com",
+              "uri": "http://persberichten.com/persbericht/93445/effectievere-inzet-van-ontwikkelaars-kan-over-een-periode-van-10-jaar-het-wereldwijde-bnp-met-2-5-biljoen-euro-verhogen",
+              "extracted_on": "2020-11-06",
+              "last_seen_on": "2020-11-06",
+              "still_on_page": true
+            },
+            {
+              "domain": "bananabeauty.fr",
+              "uri": "http://bananabeauty.fr/politique-de-confidentialite",
+              "extracted_on": "2020-10-31",
+              "last_seen_on": "2020-10-31",
+              "still_on_page": true
+            },
+            {
+              "domain": "logisticallabs.com",
+              "uri": "http://logisticallabs.com/integrations",
+              "extracted_on": "2020-10-30",
+              "last_seen_on": "2020-11-26",
+              "still_on_page": true
+            },
+            {
+              "domain": "helpyoursalon.shop",
+              "uri": "http://helpyoursalon.shop/it/politica-sulla-privacy",
+              "extracted_on": "2020-10-29",
+              "last_seen_on": "2020-10-29",
+              "still_on_page": true
+            },
+            {
+              "domain": "califortea.de",
+              "uri": "http://califortea.de/datenschutz",
+              "extracted_on": "2020-10-28",
+              "last_seen_on": "2020-10-28",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/de-ca/contact/sales",
+              "extracted_on": "2020-10-28",
+              "last_seen_on": "2020-10-28",
+              "still_on_page": true
+            },
+            {
+              "domain": "bananabeauty.it",
+              "uri": "http://bananabeauty.it/politica-sulla-privacy",
+              "extracted_on": "2020-10-27",
+              "last_seen_on": "2020-10-27",
+              "still_on_page": true
+            },
+            {
+              "domain": "mobile.sandradanse.com",
+              "uri": "http://mobile.sandradanse.com/cgv",
+              "extracted_on": "2020-10-27",
+              "last_seen_on": "2020-10-27",
+              "still_on_page": true
+            },
+            {
+              "domain": "perimenopausehub.com",
+              "uri": "http://perimenopausehub.com/privacy-notice",
+              "extracted_on": "2020-10-26",
+              "last_seen_on": "2020-10-26",
+              "still_on_page": true
+            },
+            {
+              "domain": "500apps.newswire.com",
+              "uri": "http://500apps.newswire.com/news/schedule-ly-by-500apps-announces-full-integration-with-stripe-21007617",
+              "extracted_on": "2020-10-24",
+              "last_seen_on": "2020-10-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "aide-et-contact.wedressfair.fr",
+              "uri": "http://aide-et-contact.wedressfair.fr/article/36-quels-sont-les-moyens-de-paiement-acceptes-sur-wedressfair",
+              "extracted_on": "2020-10-24",
+              "last_seen_on": "2020-10-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "goodshuffle.com",
+              "uri": "http://goodshuffle.com/terms",
+              "extracted_on": "2020-10-24",
+              "last_seen_on": "2020-10-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "ktchng.com",
+              "uri": "http://ktchng.com/pages/paymentandshipping",
+              "extracted_on": "2020-10-24",
+              "last_seen_on": "2020-10-24",
+              "still_on_page": true
+            },
+            {
+              "domain": "charitypharmacy.org",
+              "uri": "http://charitypharmacy.org/resources-operations-software-%ef%bb%bf",
+              "extracted_on": "2020-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "curious.com",
+              "uri": "http://curious.com/legal_app",
+              "extracted_on": "2020-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "pro.goodshuffle.com",
+              "uri": "http://pro.goodshuffle.com/privacy",
+              "extracted_on": "2020-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/de-bg/contact/request-demo",
+              "extracted_on": "2020-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-pl/contact/request-docs",
+              "extracted_on": "2020-10-22",
+              "last_seen_on": "2020-10-22",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/zh-cn-de/contact/sales",
+              "extracted_on": "2020-10-21",
+              "last_seen_on": "2020-10-21",
+              "still_on_page": true
+            },
+            {
+              "domain": "smallprint.tito.io",
+              "uri": "http://smallprint.tito.io/rj/northern-chagigah-2019",
+              "extracted_on": "2020-10-19",
+              "last_seen_on": "2020-10-19",
+              "still_on_page": true
+            },
+            {
+              "domain": "lifeofdetox.com",
+              "uri": "http://lifeofdetox.com/pages/kontakt",
+              "extracted_on": "2020-09-25",
+              "last_seen_on": "2020-10-23",
+              "still_on_page": true
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": "support",
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "express@stripe.com",
+          "type": "generic",
+          "confidence": 95,
+          "sources": [
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-419-de/blog/express-for-business",
+              "extracted_on": "2020-04-15",
+              "last_seen_on": "2020-10-16",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/au/blog/express-for-business",
+              "extracted_on": "2020-04-12",
+              "last_seen_on": "2020-10-16",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/blog/express-for-business",
+              "extracted_on": "2020-04-12",
+              "last_seen_on": "2020-11-23",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-br/blog/express-for-business",
+              "extracted_on": "2020-03-05",
+              "last_seen_on": "2020-09-05",
+              "still_on_page": true
+            },
+            {
+              "domain": "stripe.com",
+              "uri": "http://stripe.com/es-dk/blog/express-for-business",
+              "extracted_on": "2020-03-04",
+              "last_seen_on": "2020-12-05",
+              "still_on_page": true
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/4",
+              "extracted_on": "2019-04-23",
+              "last_seen_on": "2019-05-23",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/3",
+              "extracted_on": "2018-08-02",
+              "last_seen_on": "2019-02-25",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/2",
+              "extracted_on": "2018-04-15",
+              "last_seen_on": "2018-07-17",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog",
+              "extracted_on": "2018-01-16",
+              "last_seen_on": "2018-02-22",
+              "still_on_page": false
+            },
+            {
+              "domain": "uploads.stripe.com",
+              "uri": "http://uploads.stripe.com/blog/page/1",
+              "extracted_on": "2018-01-13",
+              "last_seen_on": "2018-03-19",
+              "still_on_page": false
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": "communication",
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "amber@stripe.com",
+          "type": "personal",
+          "confidence": 95,
+          "sources": [
+            {
+              "domain": "amberonrails.com",
+              "uri": "http://amberonrails.com",
+              "extracted_on": "2015-09-01",
+              "last_seen_on": "2020-11-11",
+              "still_on_page": true
+            },
+            {
+              "domain": "amberonrails.com",
+              "uri": "http://amberonrails.com/",
+              "extracted_on": "2015-09-01",
+              "last_seen_on": "2020-11-11",
+              "still_on_page": true
+            },
+            {
+              "domain": "amberonrails.com",
+              "uri": "http://amberonrails.com/building-stripes-api",
+              "extracted_on": "2015-09-01",
+              "last_seen_on": "2020-10-01",
+              "still_on_page": true
+            },
+            {
+              "domain": "amberonrails.com",
+              "uri": "http://amberonrails.com/move-fast-dont-break-your-api",
+              "extracted_on": "2015-09-01",
+              "last_seen_on": "2020-10-01",
+              "still_on_page": true
+            }
+          ],
+          "first_name": null,
+          "last_name": null,
+          "position": null,
+          "seniority": null,
+          "department": null,
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        },
+        {
+          "value": "lopopolo@stripe.com",
+          "type": "personal",
+          "confidence": 94,
+          "sources": [
+            {
+              "domain": "usenix.org",
+              "uri": "http://usenix.org/node/233629",
+              "extracted_on": "2019-08-07",
+              "last_seen_on": "2019-11-30",
+              "still_on_page": false
+            }
+          ],
+          "first_name": "Ryan",
+          "last_name": "Lopopolo",
+          "position": null,
+          "seniority": null,
+          "department": null,
+          "linkedin": null,
+          "twitter": null,
+          "phone_number": null,
+          "verification": {
+            "date": null,
+            "status": null
+          }
+        }
+      ]
+    },
+    "meta": {
+      "results": 196,
+      "limit": 10,
+      "offset": 0,
+      "params": {
+        "domain": "stripe.com",
+        "company": null,
+        "type": null,
+        "seniority": null,
+        "department": null
+      }
+    }
+  }
