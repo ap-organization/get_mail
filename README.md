@@ -18,6 +18,7 @@ WIP
 ## Technologies
 * Node.js
 * Google Cloud function
+* Some nice Google Sheet API wrapper https://www.npmjs.com/package/google-spreadsheet
 
 ## APIs
 * dropcontact.io: [doc](https://developer.dropcontact.io/) | [response]()
