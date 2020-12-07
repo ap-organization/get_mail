@@ -1,4 +1,4 @@
-# Leads
+# get_mails
 > Get mail validations
 
 ## Table of contents
@@ -20,7 +20,7 @@ WIP
 * Google Cloud function
 
 ## APIs
-* dropcontact.io: [doc]() | [response]()
+* dropcontact.io: [doc](https://developer.dropcontact.io/) | [response]()
 * hunters.io: [doc](https://hunter.io/api-keys) | [response](https://api.hunter.io/v2/email-verifier?email=patrick@stripe.com&api_key=2045354a4d7e7698f7090f7759a4effe065c1603)
 
 ## Setup
